@@ -9,7 +9,7 @@ I dati sono pubblicati in formato GFTS
 
 Qui è possibile accedere alle vecchie versioni del dataset [https://github.com/openamat/Official-Data/releases](https://github.com/openamat/Official-Data/releases)
  
-## Fomato GFTS
+# Fomato GFTS
 **General Transit Feed Specification (GTFS)**, conosciuto come GTFS statico per differenziarlo dal GTFS in realtime, definisce un formato per la schedulazione degli orari del trasporto pubblico e associare informazioni sulla geolocalizzazione.
 
 Ovviamente sono dati leggibili da un software GIS
